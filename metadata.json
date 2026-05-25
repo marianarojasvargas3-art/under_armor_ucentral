@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Registro y Ruleta Under Armour",
+  "description": "Formulario de registro y ruleta de premios aleatoria de Under Armour personalizada por género.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
